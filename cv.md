@@ -1,3 +1,10 @@
+- [Contacts](#contacts)
+- [About me](#about-me)
+- [Skills](#skills)
+- [Code](#code)
+- [Education & Courses](#education--courses)
+- [Languages](#languages)
+
 # Em Glaris
 
 <img src="avatar.jpg" width="150" alt="Avatar">
@@ -17,19 +24,12 @@ I am motivated to learn software engineering and become a Full-Stack Developer. 
 - **Documentation & Data:** Markdown, Obsidian, Advanced Excel
 
 ### Code
-
   
-
 ```javascript
-
 function numberToString(num) {
-
   return num.toString();
-
 }
-
 ```
-
 
 ### Education & Courses
 **Courses:**
@@ -38,7 +38,6 @@ function numberToString(num) {
 **University Education:**
 * **2021** — **Moscow Open Institute**, Professional Retraining Diploma in Web Development and Software Engineering
 * **2008-2014** — **Moscow Witte University**, Specialist Degree in Jurisprudence
-
 
 ### Languages
 - **Russian:** Native
