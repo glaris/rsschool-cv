@@ -41,7 +41,7 @@ function numberToString(num) {
 
 
 ### Languages
-- **russian:** Native
+- **Russian:** Native
 - **English:** B1 (Intermediate) — Good reading and grammar skills, currently improving active speaking.
 
 
