@@ -7,12 +7,12 @@
 
 # Em Glaris
 
-<img src="avatar.jpg" width="150" alt="Avatar">
+<img src="img/avatar.jpg" width="150" alt="Avatar">
 
 ### Contacts
-Belgrade, Serbia
-Email: emglaris@gmail.com
-Github: [glaris](https://github.com/glaris/)
+Belgrade, Serbia <br>
+Email: emglaris@gmail.com <br>
+Github: [glaris](https://github.com/glaris/) <br>
 Discord: glaris
 
 ### About me
