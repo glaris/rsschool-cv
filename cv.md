@@ -16,6 +16,19 @@ I am motivated to learn software engineering and become a Full-Stack Developer. 
 - **Tools & Workflow:** Git, GitHub, GitHub Pages
 - **Documentation & Data:** Markdown, Obsidian, Advanced Excel
 
+### Code
+
+  
+
+```javascript
+
+function numberToString(num) {
+
+  return num.toString();
+
+}
+
+```
 
 
 ### Education & Courses
